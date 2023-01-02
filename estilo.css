@@ -59,7 +59,7 @@
         }
         
         #inicio .contenido header .contenido-header nav ul li a:hover {
-            color: #ff5080;
+            color: black;
         }
         
         #inicio .contenido header .contenido-header .redes a {
@@ -130,7 +130,7 @@
         }
         
         #inicio .contenido .presentacion a:hover {
-            background-color: #ff5080;
+            background-color: black;
         }
         
         #icono-nav {
